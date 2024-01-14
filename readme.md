@@ -19,3 +19,18 @@ First, install all the dependencies with `npm i`. Then, you can run all tests at
 If you are working on `Game1`, for instance, it will make more sense to run the test cases for the first game: `npx hardhat test test/game1Test.js`. Each Game contract will have a corresponding test file.
 
 Your goal is to modify the tests to make the test case pass without modifying the smart contract (and leaving the `isWon` assertion in place).
+
+## Demo
+
+<div>
+    <a href="https://www.loom.com/share/abe7fc49a97c42c08cfca48e457b2921">
+      <p></p>
+    </a>
+    <a href="https://www.loom.com/share/abe7fc49a97c42c08cfca48e457b2921">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/abe7fc49a97c42c08cfca48e457b2921-with-play.gif">
+    </a>
+  </div>
+
+## Contributor
+
+Erik Williams
